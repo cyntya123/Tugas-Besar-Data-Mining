@@ -5,4 +5,4 @@ Anggota Kelompok:
 3. Rido Dwi Mareta (3311901057)
 
 Dataset yang digunakan adalah tripadvisor_review.csv 
-sumber : https://archive.ics.uci.edu/ml/datasets/Travel+Reviews
+Sumber : https://archive.ics.uci.edu/ml/datasets/Travel+Reviews
