@@ -1,3 +1,4 @@
+#pengaturan lokasi direktori
 setwd("D:/RStudio/Glass Classification")
 #membaca dataset
 dataset <- read.csv("glass.csv", sep = ",")
